@@ -52,6 +52,8 @@ Weights (`w1` to `w6`) are customizable in `models.py`.
 
 ---
 
+![Screenshot 2025-04-07 204307](https://github.com/user-attachments/assets/85a75758-bf11-4bf5-a68b-a217abbd1e25)
+
 
 ## Installation & Running (Local Development)
 
